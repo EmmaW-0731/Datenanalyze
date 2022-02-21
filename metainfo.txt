@@ -1,0 +1,15 @@
+Name of Quantlet: SFM1 WS22 TS Project Rough Rice Futures Price
+
+Published in: ''
+
+Description: '(S)ARIMA Model for Rough Rice Futures Price from 2011 to 2021'
+
+Keywords: 'Time series, ARIMA, first difference, Augmented Dickey-Fuller test, Price Forecasting'
+
+Author: 'Xingjia Wang'
+
+See also: ''
+
+Submitted:  '21.02.2022'
+
+Additional Info : ''
